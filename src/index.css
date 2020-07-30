@@ -1,0 +1,13 @@
+.style
+{
+  background-Color:"black";
+  color:"white";
+  padding:"30px";
+  display:"flex";
+  flex-Direction:"column";
+  align-Items:"center"
+}
+.style h1{
+  background-Color:"green";
+
+}
